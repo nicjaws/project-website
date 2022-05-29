@@ -1,4 +1,3 @@
-DEMO: https://profound-custard-42d9b6.netlify.app
 # Astro Starter Kit: Minimal
 
 ```
